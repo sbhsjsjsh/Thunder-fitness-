@@ -1,0 +1,6 @@
+{
+  "name": "Thunder Fitness Gym",
+  "description": "High-intensity fitness center in RT Nagar, Bengaluru. Offering strength training, bodybuilding, personal training, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
