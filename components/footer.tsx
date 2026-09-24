@@ -33,7 +33,7 @@ export function Footer() {
 
             <div className="flex gap-4">
               <a 
-                href="https://www.instagram.com/thunderfitnessofficial?stkn=MTBqOGs3Yzg4MmF5dg==" 
+                href="https://www.instagram.com/thunderfitnessofficial" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 border border-zinc-800 flex items-center justify-center text-zinc-500 hover:text-brand hover:border-brand transition-colors"
@@ -57,9 +57,9 @@ export function Footer() {
           <div>
             <h4 className="text-xs font-bold uppercase tracking-widest text-zinc-100 mb-6">Contact</h4>
             <ul className="space-y-4 text-sm text-zinc-500">
-              <li>RT Nagar, Bengaluru</li>
-              <li>+91 98765 43210</li>
-              <li>hello@thunderfitness.com</li>
+              <li>1st Floor, JA Heights, 4, Sultanpalya Main Rd, RT Nagar, Bengaluru, Karnataka 560032</li>
+              <li>+91 78927 72515</li>
+              <li>thunderfitnessofficial@gmail.com</li>
             </ul>
           </div>
         </div>

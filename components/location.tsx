@@ -117,7 +117,7 @@ export function Location() {
               "latitude": 13.0186,
               "longitude": 77.5954
             },
-            "url": "https://thunderfitness.in",
+            "url": "https://thunder-fitness-gym.vercel.app",
             "telephone": "+919876543210",
             "openingHoursSpecification": [
               {
